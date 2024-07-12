@@ -4,3 +4,7 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 ubuntu
+# nexus3仓库
+sonatype/nexus3
+# Docker书籍--Docker从入门到实践
+ccr.ccs.tencentyun.com/dockerpracticesig/docker_practice:vuepress
