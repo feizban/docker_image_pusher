@@ -8,3 +8,4 @@ ubuntu
 sonatype/nexus3
 # Docker书籍--Docker从入门到实践
 ccr.ccs.tencentyun.com/dockerpracticesig/docker_practice:vuepress
+6053537/portainer-ce
